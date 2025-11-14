@@ -11,6 +11,7 @@ from datetime import datetime
 import hashlib
 import re
 import shutil
+import time
 
 # Configuration - make these more flexible
 class Config:
@@ -19,7 +20,7 @@ class Config:
     POPPLER_PATH = r"C:\poppler\Library\bin"  # Windows path - set to None for auto-detect on other platforms
     GOOGLE_SHEETS_URL = "https://docs.google.com/spreadsheets/d/1GPxWXnx6fPJEmgjpsmUvlQdcMKRrc2yPGBcwdI6y10A/edit?usp=sharing"
     ADMIN_PASSWORD_HASH = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"  # "password" hashed
-    CACHE_DURATION = 300  # Cache data for 5 minutes
+    CACHE_DURATION = 30  # Cache data for 30 seconds (reduced for real-time updates)
 
 def find_poppler_path():
     """Auto-detect poppler installation path"""
@@ -91,31 +92,56 @@ def convert_google_sheets_url_to_csv(url):
     else:
         raise ValueError("Invalid Google Sheets URL format")
 
-@st.cache_data(ttl=Config.CACHE_DURATION)
-def load_data_from_google_sheets(url=None):
-    """Load nutrition data from Google Sheets with caching"""
+@st.cache_data(ttl=Config.CACHE_DURATION, show_spinner="Loading data from Google Sheets...")
+def load_data_from_google_sheets(url=None, cache_version=0):
+    """Load nutrition data from Google Sheets with caching
+    
+    Args:
+        url: Google Sheets URL (optional)
+        cache_version: Version number to force cache refresh (used as cache key)
+    """
     if url is None:
         url = Config.GOOGLE_SHEETS_URL
     
     csv_url = convert_google_sheets_url_to_csv(url)
+    # Add cache-busting timestamp only when cache_version changes (for forced refresh)
+    # This ensures we get fresh data when explicitly requested
+    if cache_version > 0:
+        timestamp = int(time.time())
+        csv_url_with_cache = f"{csv_url}&t={timestamp}"
+    else:
+        csv_url_with_cache = csv_url
+    
     # Read CSV directly from Google Sheets export URL
-    df = pd.read_csv(csv_url)
+    df = pd.read_csv(csv_url_with_cache)
     
     # Clean up column names (remove extra spaces, handle special characters)
     df.columns = df.columns.str.strip()
     
     return df
 
-def show_connection_status():
-    """Display Google Sheets connection status and product count"""
+def show_connection_status(force_refresh=False):
+    """Display Google Sheets connection status and product count
+    
+    Args:
+        force_refresh: If True, clears cache before loading
+    """
     try:
-        df = load_data_from_google_sheets()
+        # Get cache version from session state for cache busting
+        cache_version = st.session_state.get('cache_version', 0)
+        if force_refresh:
+            cache_version = st.session_state.get('cache_version', 0) + 1
+            st.session_state.cache_version = cache_version
+            load_data_from_google_sheets.clear()
+        
+        df = load_data_from_google_sheets(cache_version=cache_version)
         product_count = len(df["Product"].dropna().unique()) if "Product" in df.columns else 0
         total_rows = len(df)
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
         # Success indicator with prominent display
-        st.success(f"✅ **Connected to Google Sheets** | **{product_count} products loaded** | {total_rows} total rows | Last updated: {timestamp}")
+        cache_info = f"Cache: {Config.CACHE_DURATION}s"
+        st.success(f"✅ **Connected to Google Sheets** | **{product_count} products loaded** | {total_rows} total rows | Last updated: {timestamp} | {cache_info}")
         return True, df
     except Exception as e:
         st.error(f"❌ **Connection Failed**: Unable to load data from Google Sheets")
@@ -486,12 +512,27 @@ def admin_panel():
         st.markdown("**Data Preview:**")
         st.dataframe(df.head(), use_container_width=True)
         product_count = len(df["Product"].dropna().unique()) if "Product" in df.columns else 0
-        st.info(f"📊 **{product_count} products** available | Data cached for {Config.CACHE_DURATION // 60} minutes")
+        cache_minutes = Config.CACHE_DURATION // 60
+        cache_seconds = Config.CACHE_DURATION
+        if cache_minutes > 0:
+            cache_info = f"{cache_minutes} minute{'s' if cache_minutes > 1 else ''}"
+        else:
+            cache_info = f"{cache_seconds} second{'s' if cache_seconds > 1 else ''}"
+        st.info(f"📊 **{product_count} products** available | Data cached for {cache_info}")
         
-        # Refresh button
-        if st.button("🔄 Refresh Data", use_container_width=True):
-            load_data_from_google_sheets.clear()
-            st.rerun()
+        # Refresh controls
+        st.markdown("**🔄 Data Refresh:**")
+        col1, col2 = st.columns([2, 1])
+        with col1:
+            st.info(f"💡 Data is cached for {cache_info}. Changes in Google Sheets will appear within {cache_info} or click 'Refresh Now' for immediate update.")
+        
+        with col2:
+            if st.button("🔄 Refresh Now", use_container_width=True, type="primary"):
+                load_data_from_google_sheets.clear()
+                # Increment cache version to force refresh
+                st.session_state.cache_version = st.session_state.get('cache_version', 0) + 1
+                st.success("✅ Cache cleared! Refreshing data...")
+                st.rerun()
     except Exception as e:
         st.error(f"Error loading data: {e}")
         st.info("💡 Make sure the Google Sheet is publicly accessible or shared with view permissions.")
@@ -514,6 +555,15 @@ def user_panel(design_params):
     
     # Show connection status at the top
     st.markdown("---")
+    
+    # Add refresh button in user panel
+    col1, col2 = st.columns([3, 1])
+    with col2:
+        if st.button("🔄 Refresh Data", key="user_refresh"):
+            load_data_from_google_sheets.clear()
+            st.session_state.cache_version = st.session_state.get('cache_version', 0) + 1
+            st.rerun()
+    
     connection_ok, df = show_connection_status()
     st.markdown("---")
     
@@ -635,6 +685,8 @@ def main():
         st.session_state.is_admin = False
     if 'design_params' not in st.session_state:
         st.session_state.design_params = get_default_design_params()
+    if 'cache_version' not in st.session_state:
+        st.session_state.cache_version = 0
     
     # Sidebar for admin login
     with st.sidebar:
