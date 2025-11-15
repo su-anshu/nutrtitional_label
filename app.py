@@ -18,7 +18,7 @@ class Config:
     FONT_PATH = "fonts/Helvetica-Black.ttf"
     # POPPLER_PATH: Set to None for auto-detect, or specify path like r"C:\poppler\Library\bin"
     POPPLER_PATH = r"C:\poppler\Library\bin"  # Windows path - set to None for auto-detect on other platforms
-    GOOGLE_SHEETS_URL = "https://docs.google.com/spreadsheets/d/1GPxWXnx6fPJEmgjpsmUvlQdcMKRrc2yPGBcwdI6y10A/edit?usp=sharing"
+    GOOGLE_SHEETS_URL = "https://docs.google.com/spreadsheets/d/11dBw92P7Bg0oFyfqramGqdAlLTGhcb2ScjmR_1wtiTM/edit?gid=1800176856#gid=1800176856"
     ADMIN_PASSWORD_HASH = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"  # "password" hashed
     CACHE_DURATION = 30  # Cache data for 30 seconds (reduced for real-time updates)
 
@@ -86,8 +86,10 @@ def convert_google_sheets_url_to_csv(url):
     match = re.search(r'/d/([a-zA-Z0-9-_]+)', url)
     if match:
         sheet_id = match.group(1)
-        # Default to gid=0 (first sheet)
-        csv_url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid=0"
+        # Extract GID from URL if present (from ?gid=XXXXX or #gid=XXXXX)
+        gid_match = re.search(r'[?#]gid=(\d+)', url)
+        gid = gid_match.group(1) if gid_match else "0"  # Default to gid=0 (first sheet)
+        csv_url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}"
         return csv_url
     else:
         raise ValueError("Invalid Google Sheets URL format")
