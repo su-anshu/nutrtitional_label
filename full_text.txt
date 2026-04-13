@@ -1,0 +1,892 @@
+FOOD SAFETY AND STANDARDS (LABELLING AND DISPLAY) REGULATIONS, 2020 CHAPTER 1 GENERAL
+1. Short Title and Commencement. -(1) These regulations may be called the Food Safety and Standards (Labelling and Display) Regulations, 2020. (2) These regulations prescribe the labelling requirements of pre-packaged foods and display of essential information on premises where food is manufactured, processed, served and stored. (3) They shall come into force on the date of their publication in the Official Gazette and Food Business Operator shall comply with all the provisions of these regulations after one year from the date of their publication in the Official Gazette except chapter-3 of these regulations, to which Food Business Operator shall comply by 1st January, 2022.
+Compliance w.e.f 1st July, 2022 vide Direction F.No.REG/L&D-Extension/FSSAI-2021 dated 22nd October, 2021.
+.
+2. Definitions. -(1) In these regulations unless the context otherwise requires: (a) "Act" means the Food Safety and Standards Act, 2006 (Act 34 of 2006); (b) "Assorted pack" means any package or container containing multiple units of different food products intended and displayed for retail sale and complies with the general labelling requirement specified in regulation 4(8); (c) "Best before date" means the date which signifies the end of the period under any stated storage conditions during which the food product shall remain fully marketable and shall retain any specific qualities for which tacit or express claims have been made, and beyond that date, the food may still be perfectly safe to consume, though, its quality may have diminished. However the product shall not be sold if any stage the product become unsafe; (d) "Children or child" means a person under the age of 18 years as defined in Juvenile Justice Act, 2015.
+Explanation- The applicability of the age limit for specific category of food may be indicated in the relevant regulation, under the broad category of children.
+1 | Version-VIII (09.09.2025)
+
+(e) "Date of manufacture" means the date on which the food products becomes the product as described;
+(f) "Date of packaging" means the date on which the food product is placed in the immediate container in which it will be ultimately sold;
+(g) "e-commerce" means buying and selling of goods and services over digital and electronic network.";
+(h) "Foods for catering purposes" means those foods for use in restaurants, canteens, schools, hospitals, quick service restaurants (QSR), home delivery operators, caterers and similar institutions where food is offered for immediate consumption;
+(i) "Front of Pack" means part of the package that faces forward (in the principal field of vision) and is typically the first thing a consumer will see when they look at the product"
+(j) "Infant" means a person not more than twelve months of age; (k) "Labelling" means any written, printed or graphic matter that is present
+on the label, accompanies the food or is displayed near the food; (l) "Lot number" or "code number" or "batch number" means the
+identification mark depicted shown on the label by the use of numeral or alphabet or combinations thereof, brief preceded by "Lot number" or "code number" or "batch number" or any unique identification marks such as Batch No., B. No., L. No., Lot No., Code, LN, CN or BN, B No by which the food can be traced in manufacture and identified in distribution; (m) "Multi-unit package" means a package containing two or more individually packaged or labelled units of the same food commodity of identical and / or different, net quantity intended and displayed for retail sale either in individual units or package as a whole and complies with the general labelling requirement specified in regulation 4(8); (n) "Non-retail containers" means any container that is not intended to be offered for direct sale to the consumer. The food in the non-retail container is for further business activities before being offered to the consumer; (o) "Non-vegetarian food" means an article of food which contains whole or part of any animal including birds, insects, fresh water or marine animals
+2 | Version-VIII (09.09.2025)
+
+or eggs or products of any animal origin, but does not include milk, milk products, honey or bees wax or carnauba wax or shellac; (p) "Package/container" means a pre-packed box, bottle, jar, casket, tin, barrel, case, pouch, receptacle, sack, bag, wrapper or such other things in which an article of food is packed; (q) "Recommended dietary allowances (RDA)" means the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of nearly all (97 to 98 per cent.) healthy individuals in a particular life stage and gender group. Explanations. - For the purposes of this clause, RDA values as provided in current Indian Council of Medical Research Nutrient Requirements and Recommended Dietary Allowances for Indians shall be applicable and if Indian recommended dietary allowances is not available for any nutrient then values provided in Codex or World Health Organization guidelines shall be applicable; (r) "Pre-packaged food" means food, which is placed in a package of any nature, in such a manner that the contents cannot be changed without tampering it and which is ready for sale to the consumer. Note: The expression "package" wherever it occurs in these Regulations, shall be construed as package containing prepackaged food articles; (s) "Principal display panel" means that part of the container/package which is intended or likely to be displayed or presented or shown or examined by the customer under normal and customary conditions of display, sale or purchase of the food article contained therein; (t) "Retail pack" or "Retail unit" means the packages which are intended for sale to ultimate consumer for the purpose of consumption of the food contained therein; (u) "Use by" or "expiry" means the date, which signifies the end of the estimated period under any stated storage conditions, after which the product may not remain safe and the food product probably will not have the quality of safety attributes normally expected by the consumers and the food, shall not be sold or distributed for human consumption;
+3 | Version-VIII (09.09.2025)
+
+(v) "Vegetarian food" means any article of food other than Non-Vegetarian Food as defined in these regulations.
+(2) All other words and expressions used herein and not defined, but defined in the Act, rules or regulations made thereunder, shall have the meanings assigned to them in the Act, rules or regulations, respectively.
+3. The FSSAI may establish an internal mechanism to address the problem arising out of implementation/interpretation of the regulations.
+CHAPTER- 2 LABELLING OF PREPACKAGED FOODS 4. General Requirements. - (1) Every pre-packaged food shall be labeled with information as required under these regulations unless otherwise provided; (2) When a food product is sold through e-commerce or any other direct selling means, the mandatory requirements of the label as given in these regulations shall be provided to the consumer through appropriate means before sale except `batch number/ lot number, best before, use by date, expiry date, date of manufacturing/ packing; (3) Pre-packaged food shall not be described or presented on any label or in any labelling in a manner that is false, misleading or deceptive or is likely to create an erroneous impression regarding its character in any respect; (4) Any information or pictorial device written, printed, or graphic matter may be displayed on the label provided that it is not in conflict with the requirements of these regulations; (5) The particulars of declaration required under these Regulations to be specified on the label shall be in English or Hindi in Devnagri script: Provided that nothing herein contained shall prevent the use of any other language in addition to the language required under this regulation: Provided further that the information provided in such other language shall not contradict the information on the label in the English or Hindi; (6) Label on pre-packaged foods shall be applied in such a manner that it will not become separated from the container; (7) Contents on the label shall be clear, unambiguous, prominent, conspicuous, indelible and readily legible by the consumer under normal conditions of purchase and use;
+4 | Version-VIII (09.09.2025)
+
+(8) Where a package is provided with an outside container or wrapper and such container or wrapper is displayed for retail sale, it shall also contain all the declarations which are required to appear on the package except where such container or wrapper itself is transparent and the declarations on the package(s) are easily readable through such outside container or wrapper. Note: for the purpose of this clause in case of a transparent multi-unit package containing several retail units the label of at least one retail unit containing the declarations required under these regulations shall be visible.
+5. Labelling Requirements. -In addition to general requirements specified in Regulation 4, every package shall carry the following information on the label, namely,(1) The Name of Food: Every package of food shall carry name of the food which indicate the true nature of the food contained in the package, on the Front of Pack:
+(a) Where a food is specified by certain essential composition under Food Safety and Standards Regulations made under the Act, that establishes its identity the name provided therein shall be used;
+(b) In the absence of such name, either a common or usual name or an accompanying description of true nature of food shall be used;
+(c) It may additionally have a "coined", "fanciful", "brand" or "trade name" subject to compliance of Food Safety & Standards (Advertising and Claims) Regulation 2018.
+(2) List of Ingredients: Except for single ingredient foods, a list of ingredients shall be declared on the label in the following manner:-
+(a) The list of ingredients shall contain an appropriate title, such as the term "Ingredients/List of Ingredients";
+(b) The name of ingredients used in the product shall be listed in descending order of their composition by weight or volume, as the case may be at the time of its manufacture;
+(c) A food additive carried over into a food in an amount sufficient to perform a technological function in that food as a result of the use of raw material or other ingredients in which the additives was used shall be included in the list of ingredient;
+(d) A specific name shall be used for ingredients in the list of ingredients:
+5 | Version-VIII (09.09.2025)
+
+Provided that for ingredients falling in the respective classes, the following class titles may be used, namely: -
+
+Sl.
+
+Name of the classes
+
+No.
+
+1 Edible vegetable oil
+
+2 Edible vegetable fat
+
+3 Animal fat / oil other than milk fat
+
+Class title
+Give name of the specific edible oil such as mustard oil, groundnut oil, etc. Give type of vegetable fat (interesterified vegetable fat, fractionated fat, hydrogenated oils, partially hydrogenated oils, margarine and fat spreads, such as mixed fat spreads, vegetable fat spreads) Give name of the source of fat, pork fat, lard and beef fat or extract thereof shall be declared by specific means.
+
+4 Starches, other than chemically Starch modified starches
+5 All species of fish where the fish Fish constitutes an ingredient of another food and provided that the labelling and presentation of such food does not refer to a species of fish
+6 All types of meat where such meat Give name of the source of meat constitutes an ingredient of another food and provided that the labelling and presentation of such a food does not refer to a specific type of meat
+
+6 | Version-VIII (09.09.2025)
+
+Sl.
+
+Name of the classes
+
+Class title
+
+No.
+
+7 All types of cheese where cheese or Cheese
+
+mixture of cheese constitute an
+
+ingredient of another food and
+
+provided that the labelling and
+
+presentation of such a food does not
+
+refer to a specific type of cheese
+
+8 All spices, herbs and condiments and Spice and condiments, herbs or
+
+their extracts
+
+mixed spices/condiments as
+
+appropriate
+
+9 All types of gum or preparations used in Gum base
+
+the manufacture of gum base for
+
+chewing gum and bubble gum
+
+10 Anhydrous dextrose and dextrose Dextrose or Glucose
+
+monohydrate
+
+11 Sucrose
+
+Sugar
+
+12 All types of caseinates
+
+Caseinates
+
+13 Press, expeller or refined cocoa butter Cocoa butter
+
+14 All crystallized fruits/vegetables
+
+Crystallized fruit/vegetable
+
+15 All milk and milk products derived Milk solids (source may also be
+
+solely from milk
+
+given)
+
+16 Cocoa bean, Cocoa nib, Cocoa mass, Cocoa solids
+
+Cocoa press cakes, Cocoa powder
+
+(Fine/dust)
+
+17 All vitamin(s) and their compounds Vitamin(s)
+
+18 All minerals and trace elements and Mineral (s) and/or trace
+
+their compounds/salts
+
+element(s)
+
+(e) Where an ingredient is itself the product of two or more ingredients, such a compound ingredient shall be declared, by their specific names;
+
+7 | Version-VIII (09.09.2025)
+
+(i) as such, in the list of ingredients, provided that it is immediately accompanied by a list, in brackets, of its ingredients in descending order of proportion (m/m)at the time of manufacture of such compound ingredients:
+or (ii) by declaring all of the ingredients of compound ingredient as if they were individual ingredients of the final food:
+Provided that where a compound ingredient constitutes less than 5 per cent. of the food, the ingredients, other than food additives that serve the technological function in the food products, need not be declared;
+(f) Added water shall be declared in the list of ingredients except in cases where water forms part of an ingredient, such as, brine, syrup or broth, used in the compound food and so declared in the list of ingredients:
+Provided that water or other volatile ingredients evaporated in the course of manufacture need not be declared;
+Provided further that in case of dehydrated or condensed food, which are intended to be reconstituted by addition of water, the ingredients in such reconstituted food shall be declared in descending order of weight or volume as the case may be, and shall contain a statement such as "Ingredients of the product when prepared in accordance with the directions on the label";
+(g) The ingoing percentage of an ingredient (including compound ingredients or categories of ingredients), by weight or volume as appropriate, at the time of manufacture, shall be disclosed for foods sold as a mixture or combination where the ingredient:
+(i) is emphasized as present on the label through words or pictures or graphics; or
+(ii) is not within the name of the food but, is essential to characterise the food and is expected to be present in the food by consumers, and if the omission of the quantitative ingredient declaration will mislead or deceive the consumer: Provided that such disclosures are not required where (i) the ingredients are used as flavouring agents including spices or condiments or herbs or their extracts or mixed masalas or seasonings;
+8 | Version-VIII (09.09.2025)
+
+(ii) a reference in the name of food to an ingredient or category of ingredients, if that reference would not mislead or deceive or would not be likely to create an erroneous impression to the consumer regarding the character of the food because the variation in quantity of ingredient(s) between products is not necessary to characterize the food or distinguish it from similar foods; (iii) the drained net weight is indicated on the label as required, except in case of mixed ingredients products where certain ingredient(s) is/are emphasized.; (iv) specific provisions are stipulated under these regulations for a food; (v) a pictorial representation of a serving suggestion is made for consumer information and use. (vi) Added Micro-Nutrients and their preparations like vitamins, minerals, amino acids that are subject to a nutrition declaration as per requirements specified in regulation 5 (3).
+(3) Nutritional information.(a) For the purposes of these regulations, nutritional information is a description intended to inform the consumer of nutritional properties of the food and the following definitions shall be applicable: (i) `sugars' means all monosaccharides (glucose, fructose, etc.) and disaccharides (maltose, sucrose, lactose, etc.). (ii) `added sugars'means monosaccharides and disaccharides added to foods and beverages (iii) `fat' means total lipids including saturated fat, monounsaturated fat, polyunsaturated fat and trans fat. (A) `Saturated fats' means fatty acids without double bonds. (B) `Monounsaturated fats' means fatty acids with one cis double bond. (C) `Polyunsaturated fats' means fatty acids with cis-cis methylene interrupted double bonds. (D) `Trans fat' means all the geometrical isomers of monounsaturated and polyunsaturated fatty acids having non-conjugated, interrupted by at least one methylene group, carbon-carbon double bonds in the
+9 | Version-VIII (09.09.2025)
+
+trans configuration. (iv) "dietary fiber" means carbohydrate polymers with a degree of
+polymerization (DP) not lower than three, which are not hydrolysed by the endogenous enzymes in the small intestine of humans and the same consists of one or more of-
+(A) Edible carbohydrate polymers naturally occurring in the food as consumed;
+(B) Carbohydrate polymers, which have been obtained from food raw material by physical, enzymatic or chemical means;
+(C) Synthetic carbohydrate polymers. (v) `nutrient' means a constituent of food, which:
+(A) provides energy; or (B) has specific metabolic or physiological functions; or (C) is needed for growth and development and maintenance of healthy
+life; (b) Nutritional Information per 100g or 100ml or per single consumption pack of the
+product and per serve percentage (%) contribution to Recommended Dietary Allowance calculated on the basis of 2000kcal energy, 67 g total fat, 22 g saturated fat, 2 g trans fat, 50 g added sugar and 2000 mg of sodium (5 g salt) requirement for average adult per day, shall be given on the label containing the following: --
+(i) energy value (kcal); (ii) the amounts of
+(A) Protein (g); (B) Carbohydrate (g) and Total Sugars (g), added sugars (g); (C) Total fat (g), saturated fat (g), trans fat (other than naturally
+occurring trans fat)(g)and cholesterol (mg); Provided that the content of saturated fat and trans fat may be
+declared on the label as "not more than". 2["Provided that saturated fat and trans fat to be given only if
+total fat content is more than 0.5% in final food."] 2["Provided further that cholesterol content to be given only for
+products containing fats of animal origin and where total fat content is more than 0.5%."]
+10 | Version-VIII (09.09.2025)
+
+(D) Sodium (mg); (iii) Wherever, numerical information on vitamins and minerals is declared, it shall be expressed in metric units; (iv) Nutrition information panel shall include the amount of food in gram (g) or millilitre (ml) for reference beside the serving measure and the number of servings in the package. Explanation: "serving or serve size" means an amount of food customarily consumed per eating occasion or as defined on the label which is expressed in metric unit. Additionally, it may also be given in common household measures like tea spoon, table spoon, cup that is appropriate to the food.
+Provided that the food claimed to be enriched with nutrients, such as, minerals, proteins, vitamins, amino acids or enzymes shall give the quantities of such added nutrients on the label.
+(c) The following foods are exempted from mandatory nutritional labelling: (i) Unprocessed products that comprise a single ingredient; (ii) Processed products which the only processing they have been subjected to is maturing and that comprise a single ingredient; (iii) Waters intended for human consumption, including those where the only added ingredients are carbon dioxide; (iv) A herb, a spice or mixtures thereof / Curry Powder except Sprinkler masala (masalas meant for direct consumption); (v) Salt and salt substitutes; (vi) Table top sweeteners; (vii)Coffee extracts and chicory extracts, whole or milled coffee beans and whole or milled decaffeinated coffee beans, coffee, decaffeinated coffee, soluble coffee powder, coffee chicory mixture; (viii) Herbal and fruit infusions, tea, decaffeinated tea, instant or soluble tea or tea extract, decaffeinated instant or soluble tea or tea extract, which do not contain other added ingredients than flavourings which do not modify the nutritional value of the tea; (ix) Fermented vinegars and substitutes for vinegar, including those where the only added ingredients are flavourings;
+11 | Version-VIII (09.09.2025)
+
+(x) Flavourings, Food additives, Processing aids, Food enzymes, Gelatine, Yeast;
+2[(xi) Chewing gum and bubble gum] (xii)Alcoholic Beverages. (xiii) Foods for Special Dietary Uses (FSDU), Foods for Special Medical
+Purposes(FSMP), subject to the compliance of requirements specified in the Food Safety and Standards (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016.
+Provided that every package of edible oils, interesterified vegetable fat, both hydrogenated or partially hydrogenated oils, edible fats, margarine and fat spreads (mixed fat spread and vegetable fat spread) and package of food in which fats, oils and fat emulsions is used as an ingredient shall declare the quantity of trans fat content and saturated fat content on the label.
+Provided that the content of saturated fat and trans fat may be declared on the label as "not more than".
+Provided further that every package of edible oils, interesterified vegetable fat, both hydrogenated or partially hydrogenated oils, edible fats, margarine and fat spreads (mixed fat spread and vegetable fat spread) shall declare the quantity of monounsaturated fatty, polyunsaturated fatty acid, omega-3 fatty acid and omega6 fatty acid content on the label.
+However, nutritional information shall be required in the above-mentioned products if a nutrition or health claim is made on the label.
+(d) The compliance to quantity of declared nutrients on the label shall have the tolerance of maximum minus 10 percent of the value for that nutrient declared on the label at any point in time within declared shelf life of the product.
+(e) Calculation of Nutrients: (i) Calculation of Energy: The amount of energy to be listed should be calculated by using the following conversion factors:
+12 | Version-VIII (09.09.2025)
+
+(A) Carbohydrates (B) Polyols except Erythritol (C) Erythritol (D) Protein (E) Fat (F) Alcohol (Ethanol) (G) Organic acid (H)Dietary fibre
+
+4 kcal/g 2 kcal/g 0kcal/g 4 kcal/g 9 kcal/g 7 kcal/g 3 kcal/g 2kcal/g
+
+(ii) Calculation of Protein - The amount of protein to be listed should be calculated using the formula: Protein = Total Kjeldahl Nitrogen x 6.25 (Unless a different factor scientifically justified, may be used) Provided that for calculating protein content in milk a conversion factor of 6.38 needs to be used.
+(f) Nutritional information may additionally be provided in the form of Barcode/Global Trade Identification Number (GTIN).
+(4) Declaration regarding Veg or Non veg.(a) Every package of Non-Vegetarian Food containing ingredients including food additives, processing aids of animal origin shall bear a declaration to this effect made by a symbol and colour code as stipulated below. The symbol shall consist of a brown colour filled triangle inside a square with brown outline having the sides not less than the minimum size specified in the Table mentioned in the regulation 5 (4) (c), as indicated below:
+
+Brown colour Provided where any article of food contains egg only as Non-Vegetarian ingredient, the manufacturer, or packer or seller may give declaration to this effect in addition to the said symbol.
+13 | Version-VIII (09.09.2025)
+
+(b) Every package of Vegetarian Food containing ingredients including food additives, processing aids of plant origin shall bear a declaration to this effect by a symbol and colour code as stipulated below. The symbol shall consist of a green colour filled circle inside a square with green outline having the diameter not less than the minimum size specified in the Table mentioned in the regulation 5 (4) (c), as indicated below:
+
+Green colour
+
+(c) Size of the Vegetarian/Non-vegetarian logo:
+
+SI. Area of principal Minimum size Minimum size Minimum size
+
+No. display panel in of diameters of each side of of each side of
+
+cm. square
+
+of circle in mm triangle in mm square in mm
+
+1. Upto 100
+
+3
+
+2. Above 100 to 500 4
+
+3. Above 500 to 2500 6
+
+4. Above 2500
+
+8
+
+2.5
+
+6
+
+3.5
+
+8
+
+5
+
+12
+
+7
+
+16
+
+(d) Declaration regarding Veg. or Non-Veg shall also be prominently displayed as provided in this regulation on the pamphlets, leaflets and advertisements in any media. The symbol shall be prominently displayed on the package having contrast background on principal display panel, just close in proximity to the name or brand name of the producton front of pack.
+Provisions of regulations 5(4)(a) and 5(4)(b) shall not apply in respect of mineral water, packaged drinking water, carbonated water, alcoholic beverages, liquid milk, milk powders and honey.
+(5) Declaration regarding Food Additives.Functional classes for food additives shall be declared together with the specific name(s) or recognized International Numbering System (INS) as specified in Food Safety and
+
+14 | Version-VIII (09.09.2025)
+
+Standards (Food Product Standards and Food Additives) Regulations, 2011 in the list of the ingredients;
+(a) Every food to which a flavouring agent is added in accordance with the Regulation 3.3.1(1) of Food Safety and Standards (Food Product Standards and Food Additives) Regulations, 2011, it shall be declared in the list of ingredients provided that: i) In case of artificial flavoring substances the common name of the flavor shall be declared; ii) In case of natural flavoring substances or nature identical substances the class name of flavors shall be declared.
+(6) Declaration of name and complete address.(a) The name and complete address of the brand owner, whether or not, he himself is the manufacturer, marketer, packer or bottler, as the case may be, shall be declared on the label. Such name and address shall be preceded by the qualifying words "Manufactured by (Mfg by, Mfd by)" or "Marketed by (Mkt by)" or "Manufactured & Marketed by" or "Packed & Marketed by" as the case may be.
+In case of alcoholic beverages, "Bottled by" or "Blended and Bottled by "or "Imported and Bottled by". Or "distilled and bottled by" may also be declared on label.
+(b) Where an article of food is imported into India, the package of food shall also carry the name and complete address of the importer in India.
+Provided further that where any food article manufactured outside India is packaged or bottled in India, the package containing such food article shall also bear on the label, the name of the country of origin of the food article and the name and complete address of the importer and the premises of packing or bottling in India.
+(7) FSSAI logo and license number.(a) The FSSAI logo and license number under the Act shall be displayed on the label of the food package in contrast color to the background as below:
+15 | Version-VIII (09.09.2025)
+
+Lic. No. XXXXXXXXXXXXXX
+(b) The FSSAI logo and license number of the brand owner shall be displayed on the label. In addition, the license number of the manufacturer or marketer or packer or bottler, as the case may be, if different from the brand owner, shall also be displayed on the label.
+(c) In case of imported food products, the importer shall display FSSAI logo and license number along with name and address of importer.
+(d) Every food business operator shall display on all its premises, where food is stored, processed, distributed or sold, the Registration/Licence No. as the case may be or Food Safety Display Board if specified, along with other information as may be specified by the Food Authority from time to timeat a prominent place in the premises.
+(e) Fortified food and organic food shall be marked with the logo as specified in 2[Schedule I] of these regulations. FSSAI may specify logo for any other food as decided from time to time.
+(8) Net quantity, Retail Sale Price and Consumer Care details.Declaration and manner of declarationof Net quantity, Retail Sale Price and Consumer Care details shall be as provided in Legal Metrology Act, 2009 (1 of 2010) and the Rules made there under.
+(9) Lot/Code/Batch identification.A batch number or code number or lot number shall be declared on the label.
+(10) Date Marking.(a) "Date of manufacture or packaging" and "Expiry/Use by" shall be declared on the label. However, expression "Best before" may also be used as optional or additional information. (b) The manner of declaration of date of manufacture or packaging/Expiry/Use by/Best Before shall be as follows:
+16 | Version-VIII (09.09.2025)
+
+(i) the day, month and year using the DD/MM/YY format for products with a short shelf life of up to 3 months; the month and the year for products with a shelf life of more than three months, shall be declared in un-coded numerical sequence except that the month shall be indicated by capital letters and abbreviations (at least first three letters of the month) may be used. 2["Provided that for products with shelf life of more than three months, the "DD/MM/YY" format may also be used."]
+(c) In addition to the expiry or Use by, any special conditions for the storage of the food shall be declared on the label if the validity of the date depends thereon. If required, storage conditions after opening the pack may also be specified.
+(d) Notwithstanding anything contained in this regulation, an indication of the "Expiry" shall not be required for: (i) Fresh fruits and vegetables, including potatoes which have not been peeled, cut or similarly treated; (ii) All types of wine; (iii) Alcoholic beverages containing 10% or more by volume of alcohol; (iv) Vinegar; (v) Sugar boiled confectionery; (vi) Food grade salt for industrial use; (vii) Solid sugars; (viii) Chewing gum and bubble gum.
+(e) "Date of manufacture or packaging" and "Expiry /Use by" shall be grouped together and given at one place. (f) "Date and time of manufacture" shall be declared on packed meals served in airlines/railways/mobile catering units.
+(11) Labelling of Imported Foods.Labelling requirements for imported products shall be governed by the Food Safety and Standards (Import) Regulations, 2017 in addition to the requirement mentioned in these regulations.
+(12) Country of Origin for Imported Foods(a) The country of origin of the food shall be declared on the label of food imported into India.
+17 | Version-VIII (09.09.2025)
+
+(b) When a food undergoes processing in a second country which changes its nature, the country in which the processing is performed resulting in change in HS Code at the 6 digit level shall be considered to be the county of origin for the purposes of labelling.
+(13) Instructions for use.(a) Instructions for use, including reconstitution, where applicable, shall be included on the label, to ensure proper utilization of the food or where such food requires directions for reasons for health and safety (e.g. `Refrigerate after opening').
+(14) Declaration regarding Food allergen: The following foods and ingredients which are known to cause allergy shall be declared separately as Contains............................ (Name of allergy causing ingredients)
+(i) Cereals containing gluten; i.e., wheat, rye, barley, oats, spelt or their hybridized strains and products of these (To be declared as name of the cereal);
+2[except (a) wheat based glucose syrups including dextrose*; (b) wheat based maltodextrins*; (c) glucose syrups based on barley; (d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+Note: * The products thereof, provided these ingredients have been assessed as safe and gluten shall not be more than 20 mg/kg.]
+(ii) Crustacean and their products (To be declared as Crustacean); (iii) Milk & Milk products (To be declared as Milk); (iv) Eggs and egg products (To be declared as Egg); (v) Fish and fish products (To be declared as Fish); (vi) Peanuts, tree nuts (e.g. almonds, walnuts, pistachio, cashew nuts) and their
+products (To be declared as Nut); (vii) Soybeans and their products (To be declared as Soy); (viii) Sulphite in concentrations of 10mg/kg or more (To be declared as sulphite)
+18 | Version-VIII (09.09.2025)
+
+Provided that in case presence of ingredients due to cross contamination which are known to cause allergy may be declared separately as May Contains.......................... (Name of allergy causing ingredients).
+2[Provided further that this declaration is not required in case of oils and distilled alcoholic beverages derived from these ingredients and where the product itself is a food allergen.]
+Raw agricultural commodities are exempted from the allergen labelling requirements. (15) Every package of food material sold in retail but which is not meant for human consumption example Pooja water, Ghee for diya, Oil for Pooja etc. shall bear a declaration to this effect by a symbol as stipulated below. The symbol shall consist of a black colour cross inside a square with black outline having the sides of square not less than the minimum size specified in the Table mentioned in the regulation 5 (4) (c), as indicated below:
+6. Principal display panel.- (1) The information required under these regulations shall be given on the principal display panel of the package or container and such information may be given in following manner, (a) All information should be grouped together and given at one place. Or (b) The pre-printed information be grouped together and given in one place and, Online information or those not pre-printed be grouped together in another place.
+(2) Area of Principal Display Panel-The area of principal display panel shall not be less than:
+(a) In the case of a rectangular package, forty percent of the product of height and width of the panel of such package having the largest area;
+19 | Version-VIII (09.09.2025)
+
+(b) In case of cylindrical or nearly cylindrical, round or nearly round, oval or nearly oval package, forty percent of the product of the height and average circumference of such package; or
+(c) In the case of package of any other shape, twenty percent of the total surface area of the package;
+(d) In the case of package having a capacity of ten cubic centimeters or less, the principal display panel may be card or tape affixed firmly to the package and bearing the required information under these regulations.
+
+(3) The height of any numeral and letter required under these regulations, on the principal display panel shall be as shown in table below:
+
+2[Table I
+
+Area of Principal Display Minimum Height of numeral and letter in mm
+
+Panel
+
+Normal case When Blown, formed
+
+Moulded, or perforated on
+
+container
+
+Upto 200 cm2
+
+1
+
+2
+
+Above 200 cm2 upto 500
+
+2
+
+4
+
+cm2
+
+Above 500 cm2 upto 2500
+
+3
+
+5
+
+cm2
+
+Above 2500 cm2
+
+6
+
+8]
+
+Provided that the size of numeral and/or letters required for declaration of net weight, retail sale price, date of expiry or best before or the use by date (wherever and as applicable) and Consumer care details on the principal display panel shall be as provided in the Legal Metrology Act, 2009 (1 of 2010) and the rules made there under.
+
+20 | Version-VIII (09.09.2025)
+
+2[Provided further that the size of numeral or letter required for all declarations under these regulations on the crown or closure of returnable glass bottle shall not be less than 1 mm.]
+The width of the letter or numeral shall not be less than one-third of its height, but this proviso shall not apply in the case of numeral "1" and letters i, I and l.
+7. Mandatory Declarations.(1) Wherever, packaged food contains ingredients and /or additives as stated in schedule-II of these regulations, the same shall be prominently displayed on the label. The size of numerals and letters for the declarations/specific requirements specified in schedule-II shall not be less than 3mm based on the letter l. 1[Provided that in case of food package having surface area upto 30cm2 containing caloric or non caloric sweetener or mixture thereof, the size of numerals and letters for the declarations or specific requirements specified in Schedule -II shall not be less than 1mm based on the letter l.] (2) The Food Authority may modify, delete or add any of the ingredients and/or additives and corresponding declaration from time to time.
+8. Exemptions from certain labelling requirements(1) Where the surface area of the package is not more than 100 square centimetres, the label of such package shall be exempted from the requirements of list of ingredients, Lot Number or Batch Number or Code Number, nutritional information, labelling of irradiated food, declaration of food additives, License no and logo the name and complete address of the importer and instructions for use, but these information shall be given on the multi-unit packages. 2[(1) (a) The 'date of manufacture' and `Use by Date or Expiry Date' may not be required to be mentioned on the package having surface area of less than thirty square centimetres but this information shall be given on the multi-unit packages.]
+21 | Version-VIII (09.09.2025)
+
+(2) In case of liquid products marketed in bottles, if such bottle is intended to be reused for refilling, the requirement of list of ingredients shall be exempted, but the nutritional information specified in regulation 5(3) shall be given on the label.
+(3) In case of food with shelf-life of not more than seven days, the 'date of manufacture' may not be required to be mentioned on the label of packaged food articles, but the 'Expiry/use by' shall be mentioned on the label by the manufacturer or packer.
+(4) In case of prepared food served for immediate consumption such as in hotels or by food service vendors or caterers or halwais or hospitals or at religious gathering or food served in airline/railways/passenger vehicle or any mobile unit shall accompany or display the minimum information as specified below at the point of sale/serve of the food. (a) Specific declarations prescribed under sub-regulations 1.1 (1), (2), (3), 1.4 (3), (4) and 1.9 of schedule II of these regulations; (b) information relating to allergen; and (c) logo for veg or non-veg. Provided that in case of food served through vending machine the labelling requirement as prescribed in regulation 5(3) of these regulations shall be displayed in addition to the requirements mentioned in 8(4) above, through appropriate presentation on the outside of vending machine or through poster, leaflet or on the container.
+(5) The following labelling requirements are exempted if they are provided in a Barcode/Global Trade Identification Number (GTIN); (a) Address of the brand owner whether or not, he himself is the manufacturer, marketer, packer or bottler, as the case may be,
+(b) the license number of the manufacturer or marketer or packer or bottler, as the case may be, if different from the brand owner.
+22 | Version-VIII (09.09.2025)
+
+(6) For Assorted packs, Shelf life declared on assorted pack should be that of the product having the earliest shelf life declared amongst the different pre-packaged food packed inside.
+CHAPTER- 3 9. Display of information in food service establishments (1) Food Service Establishments having Central license or outlets at 10 or more locations shall mention the calorific value (in kcal per serving and serving size) against the food items displayed on the menu cards or boards or booklets. Additionally, reference information on calorie requirements shall also be displayed clearly and prominently as "An average active adult requires 2,000 kcal energy per day, however, calorie needs may vary".
+(2) Food Service Establishments shall also mention the information specified below against the food items displayed on the menu cards or boards:
+a) information relating to food allergens as prescribed under sub-regulations 5 (14) of these regulations: Provided that the allergens may be depicted by easy to understand symbols.
+b) logo for veg or non-veg;
+(3) These provisions shall not be applicable to the following: a) Event caterers and Food Service premises that operate for less than 60 days in a calendar year (consecutively or non-consecutively). b) Self-serve condiments that are free of charge and not listed on the menu. c) Special-order items or modified meals and menu items as per customer's request.
+(4) Food Service Establishments shall also provide nutritional information as prescribed under sub-regulation 5(3), specific requirements prescribed under the provisions 1.1 (1), (2), (3), 1.4 (3), (4) and 1.7 of schedule-II of these regulations, if applicable and information relating to organic food or ingredients, if claimed, for the food items sold by them to consumers upon request in the form of booklets or handouts or on their website.
+Provided that deviation of 25 percent may be tolerated in case of nutritional information declaration.
+23 | Version-VIII (09.09.2025)
+
+(5) E-commerce Food Business Operators shall get the above mentioned information from respective Food Business Operators and provide on their website wherever applicable. (6) Nutritional information and/or ingredients information along with health messages shall be displayed where food is served in a manner as may be required and specified by the Food Authority. (7) The Authority may specify other food service establishments also to comply with the requirements specified in these regulations from time to time.
+CHAPTER 4 10. Labelling Requirements of non-retail container
+(1) Every packaged food meant for non-retail sale shall provide the following mandatory information either on the container or pasted on the label thereto:
+(a) Name of the food; (b) Net Quantity; (c) FSSAI Logo and License number; (d) Date marking; (e) Lot No. (f) Name and address of the manufacturer or packer (including country of
+origin for imported packages)
+(2) The following information if not provided on the label shall be provided in the accompanying documents:
+(a) List of ingredient (b) Declaration regarding Veg or Non-Veg (c)Nutritional information
+(3) The following labelling requirements are exempted if they are provided in a Barcode/Global Trade Identification Number (GTIN);-
+(a) Address of the brand owner whether or not, he himself is the manufacturer, marketer, packer or bottler, as the case may be,
+(b) the license number of the manufacturer or marketer or packer or bottler, as the case may be, if different from the brand owner.
+24 | Version-VIII (09.09.2025)
+
+(4) Every package meant for non- retail sale shall bear a statement "NOT FOR RETAIL SALE".
+CHAPTER 5 LABELLING OF FOOD ADDITIVES WHEN SOLD AS SUCH 11. Labelling of packaged Food Additives for Retail Sale (1) Every package of a food additive meant for retail sale to the consumer shall be labelled in accordance with the Food Safety and Standards (Labelling and Display) Regulations, 2020 except for sub-regulation 5(1) and 5(3) of this regulation.
+(2) Additionally the label of every package of food additive shall provide the following information under these regulations:
+(a) Name of Food Additive. ­ The specific name as mentioned in Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011 and amendments thereof shall be used.
+Provided that:
+(i) Where such a name is not listed in the aforementioned clause the name established in international regulations shall be used or
+(ii) In other cases the common or commercial name shall be used (iii) In the case of synthetic food colours the chemical name and the colour index
+of the dye stuff. (iv) If two or more food additives are present in the package, their names shall
+be listed in the descending order of their composition by weight or volume. Where one or more of the food additives is subject to a quantitative limitation in a food covered by Food Safety and Standards (Food Products Standards and Food Additives) Regulations 2011, and amendments thereof, the quantity or proportion of that additive shall be stated. If food ingredients are part of the preparation, they shall be declared in the list of ingredients in descending order of proportion by weight.
+(b) Other Mandatory Declarations:
+25 | Version-VIII (09.09.2025)
+
+(i) Every package of a food additive sold in retail or non-retail sale shall be marked prominently with the words "FOR USE IN FOOD".
+(ii) In the case of mixtures of flavourings, the name of each flavouring present in the mixture need not be given but a common or generic expression "flavour" or "flavouring" may be used, together with a true indication of the nature of the flavour.
+The expression "flavour" or "flavouring" shall be qualified by the words "natural", nature-identical", "artificial", or a combination of these words, as appropriate. Provided that this qualifier does not apply to flavour modifiers.
+12. Labelling of Pre-packaged Food Additives Sold other than by Retail Every package of a food additive meant for sale other than in Retail shall carry label in accordance to chapter 4 and regulation 10 of these regulations except the clause 10(2)(c).
+13. The provision of these regulations shall supersede, if repugnant to labelling requirement prescribed in any regulations made under the Food Safety and Standards Act, 2006 (34 of 2006).
+Schedule-I (See regulation 5 (7) (e))
+(1) Every package of fortified food shall carry the words "fortified with ............ (name of the fortificant)" and the logo, as specified below, on the label. It may also carry a tag line "Sampoorna Poshan Swasth Jeevan" under the logo.
+Fortified with....
+.... SAMPOORNA POSHAN
+SWASTHA JEEVAN
+26 | Version-VIII (09.09.2025)
+
+(2) Every package of certified organic food as per Food Safety and Standards (Organic Foods) Regulations, 2017 shall carry the logo as specified below:
+27 | Version-VIII (09.09.2025)
+
+Schedule-II (See regulations 7 (1), 8(4) (a) and 9(4))
+
+1. Mandatory Declarations:
+
+(1) Every package of food containing the following ingredients/additives shall bear the following declarations on the label in a rectangular box, namely,-
+
+SI. No.
+
+Ingredients/additives
+
+1. 10% or more polyols
+
+Declarations Polyols may have laxative effect
+
+2. 10% or more polydextrose 3. Added caffeine
+
+Polydextrose may have laxative effect CONTAINS CAFFEINE
+
+2[****]
+
+4. Isomaltulose
+
+Contains Isomaltulose-----(kcal) per
+
+100gm or 100ml
+
+1[5. 10 per cent. or more Sorbitol and May have laxative effect, cause bloating
+
+Sorbitol syrup
+
+and diarrhea in children; and reduce
+
+28 | Version-VIII (09.09.2025)
+
+calcium absorption in post-menopausal women]
+
+(2) Every package containing the following articles of food shall bear the following declarations on the label in a rectangular box, namely, -
+
+SI. No.
+
+Articles of food
+
+Declarations
+
+1. Maida treated with improver or REFINED WHEAT FLOUR (MAIDA)
+
+bleaching agents
+
+TREATED
+
+WITH
+
+IMPROVER/
+
+BLEACHING AGENTS, TO BE USED BY
+
+BAKERIES ONLY
+
+2. Dried Glucose Syrup containing DRIED GLUCOSE SYRUP FOR USE IN
+
+sulphur dioxide exceeding 40 ppm SUGAR CONFECTIONERY ONLY
+
+3. Fruit squash by whatever name it is CONTAINS ADDITIONAL SODIUM/
+
+sold, containing additional sodium POTASSIUM SALT
+
+or potassium salt
+
+4. Flavour emulsion and flavour paste FLAVOUR EMULSION AND FLAVOUR
+
+meant for use in carbonated or non- PASTE FOR USE IN CARBONATED OR
+
+carbonated beverages
+
+NON-CARBONATED BEVERAGES ONLY
+
+5. Cheese(s), if coated/packed in food COATED WAX TO BE REMOVED BEFORE
+
+grade waxes
+
+CONSUMPTION
+
+6. Frozen Desert/Frozen Confection Frozen Desserts/Frozen Confection is
+
+made with _______________ Edible
+
+Vegetable Oil*/and Vegetable Fat*
+
+7. Common Salt
+
+COMMON SALT FOR IODISATION*/
+
+IRON FORTIFICATION*/ANIMAL USE*/
+
+PRESERVATION NOT MEANT FOR
+
+DIRECT CONSUMPTION*/INFANT FOOD
+
+PRODUCTS*/MEDICINE*/INDUSTRIAL
+
+USE*
+
+8. Fresh fruit if coated with wax
+
+COATED WITH WAX (give name of wax)
+
+9. Gelatin meant for human Gelatin Food Grade
+
+consumption
+
+* Strike out whatever is not applicable.
+
+29 | Version-VIII (09.09.2025)
+
+(3) Every package containing the following articles of food and advertisement relating thereto shall carry the warning and/or declaration, in a rectangular box, namely, -
+
+SI. No. 1. 2. 1[3.
+4.
+
+Articles of food
+
+Declarations
+
+Pan Masala
+
+3[CHEWING OF PAN MASALA IS INJURIOUS TO HEALTH
+Note: The warning statement must
+cover 50% of front-of-pack of the label]
+
+Supari
+
+CHEWING OF SUPARI IS INJURIOUS TO
+
+HEALTH
+
+Aspartame (Methyl ester), (i) Contains........... (Name of sweetener
+
+Acesulfame
+
+Potassium,
+
+Aspartame-Acesulfame salt,
+
+Sucralose,
+
+SACCHARINS,
+
+with purity and weight percent of
+
+marker compound)
+
+(ii) Not
+
+recommended
+
+for
+
+phenylketonurics; for children
+
+Neotame, Steviol Glycoside and Polyols marketed as "Table Top Sweetener"
+
+suffering from seizure disorders; pregnant and lactating mothers (in case of Aspartame (Methyl ester)) (iii) Not recommended for children;
+
+pregnant and lactating mothers (in
+
+case of Acesulfame Potassium)
+
+(iv)Not
+
+recommended
+
+for
+
+phenylketonurics; for children;
+
+pregnant and lactating mothers (in
+
+case off Aspartame-Acesulfame
+
+salt)
+
+(v) Not recommended for children" (in
+
+case of SACCHARINS)
+
+(vi) Polyols may have laxative effect (in
+
+case of Polyols)
+
+(vii) May have laxative effect, cause
+
+bloating and diarrhea in children;
+
+and reduce calcium absorption in
+
+post-menopausal women (in case of
+
+Sorbitol and Sorbitol syrup).
+
+***
+
+***]
+
+30 | Version-VIII (09.09.2025)
+
+(4) Every package of food containing the following ingredients/additives and advertisement relating thereto shall carry the following warning and declaration, in a rectangular box, namely, -
+
+SI. No. 1[1.
+2.
+
+Ingredients/additives Sweeteners mentioned under Appendix A of Food Safety and standards (Food Products standards and Food Additive) Regulations, 2011
+Mixture of Sweeteners mentioned under Appendix A of Food Safety and Standards (Food Products Standards and Food Additive) Regulation,2011
+
+Declarations
+
+i) This contains............................ (name of
+
+the sweetener).
+
+(ii)*Not
+
+recommended
+
+for
+
+phenylketonurics; for children
+
+suffering from seizure disorders;
+
+pregnant and lactating mothers (if
+
+Aspartame is added)
+
+(iii)*Not recommended for children;
+
+pregnant and lactating mothers" (if
+
+Acesulfame potassium is added)
+
+(iv)*Not
+
+recommended
+
+for
+
+phenylketonurics; for children;
+
+pregnant and lactating mothers (if
+
+Aspartame-Acesulfame salt is added)
+
+(v) *Not recommended for children (if
+
+SACCHARINS is added)
+
+This ....................... (name of food)
+
+contains an admixture of ......... (name of
+
+the sweeteners).
+
+Provided that in addition to the above declaration every package of food containing mixture of sweeteners shall declare the labelling requirement prescribed under these regulations for the individual sweeteners present in the mixture;
+
+Note: In case of food package having surface area upto 100cm2 , the size of numerals & letters for such declarations shall not be less than 1.5 mm 3. Every package of food which is CONTAIN NON-CALORIC SWEETENER] permitted to contain non-caloric sweetener mentioned in Food Safety and Standards (Food
+
+31 | Version-VIII (09.09.2025)
+
+Products standards and Food
+
+Additive) Regulations, 2011
+
+4. Monosodium Glutamate
+
+This package of (name of the food)
+
+............... contains added MONOSODIUM
+
+GLUTAMATE
+
+* Strike out whatever is not applicable.
+
+NOT RECOMMENDED FOR INFANTS BELOW -12 MONTHS AND PREGNANT WOMEN
+
+(5) Every container of refined vegetable oil shall bear the following label, namely, -- Refined (name of the Oil) Oil
+
+(6) One time usable plastic bottles of packaged drinking water and mineral water shall carry the following declaration.
+2[****]
+
+CRUSH THE BOTTLE AFTER USE 2[OR]
+DISPOSE THE BOTTLE RESPONSIBLY
+(7) Every package of fat spread, milk products, milk based fruit drink, fermented milk products, soy and rice drink, cheese products, yoghurt products, spice sauces, salad dressings, juices and nectars containing added plant stanol esters shall bear the following label, namely:-
+
+ Contains Plant Stanol Esters (as Plant Stanols )---gm/100 gm or 100ml.  Patients on cholesterol lowering medication should use the product under
+medicalsupervision.  May not be nutritionally appropriate for pregnant and lactating women and
+childrenunder the age of five years.  CONSUMPTION OF MORE THAN 3g. PER DAY, TOTAL OF STEROL, STANOLS OR
+COMBINATION THEREFOF SHALL BE AVOIDED.
+
+32 | Version-VIII (09.09.2025)
+
+(8) Every package of biscuits, bread, cakes, breakfast cereals, carbonated water, thermally processed fruits, fruit juices, fruit nectars, fruit beverages, fruit squashes, jam, jelly, fruit cheese, marmalade, dairy based drinks, milk powder, carbohydrate- based and milk product based sweets like gulabjamun, rosogolla, peda, khoya burfi, macroni products, noodles, pasta, sweets and confectionery, candies and icings, savories and snacks wherever the trehalose is added shall bear the following label, namely:--
+Contains Trehalose
+(9) Every package of flakes and ready to eat dry breakfast cereals, noodles, pasta, salad dressings or toppings and spreads; table top fibre as filler or carrier, cereals and other snack food or savouries and bakery products including biscuits, cookies, bread, cake mix and pastries and other products where dextrin is allowed under Food Safety and standards (Food Products standards and Food Additive) Regulations, 2011, containing added Dietary Fibre (Dextrin-soluble fibre), shall bear the following declarations, namely:-
+Contains Dietary Fibre (Dextrin) ----- (Source of soluble Dietary Fibre)
+(10) Fat spread, milk products, milk based fruit drink, fermented milk products, soy and rice drinks, cheese products, yoghurt products, spice sauces, salad dressings, juices and nectars, edible oils, and bakery products containing added plant sterol shall contain the following declarations, namely: -
+ Contains Plant Sterol (as Phytosterols) ---g/100g or 100ml.  Patients on cholesterol lowering medication should use the product under
+medical supervision  May not be nutritionally appropriate for pregnant and lactating women and
+children under the age of five years.  CONSUMPTION OF MORE THAN 3g/DAY, TOTAL OF STEROL, STANOLS, OR
+COMBINATION THEREOF, SHOULD BE AVOIDED
+(11)(a) The label of a food, which has been treated with ionizing radiation, shall carry a written statement indicating the treatment in close proximity to the name of the food.
+(b) Any food that has undergone the process of irradiation provided under regulation 2.13 of Food Safety and Standards (Food Products Standards and Food Additives)
+33 | Version-VIII (09.09.2025)
+
+Regulations, 2011, shall bear the Radura logo in green colour and following declaration on the label, namely: -
+PROCESSED BY RADIATION
+Name of the Product: Purpose of Radiation Processing: Operating License No. : Batch Identification No. (BIN) (as provided by facility): Date of Processing.............................."
+2. Specific requirements/ restrictions on manner of labelling 2.1 Labelling of edible oils and fats
+(1) The package, label or the advertisement of edible refined vegetable oils and fats shall not use any exaggerated expressions like "Super-Refined", "Extra-Refined", "Micro-Refined", "Double refined,", Ultra-Refined".
+(2) Every package of vanaspati made from more than 30 percent of Rice bran oil shall bear the following label, namely: `This package of vanaspati is made from more than 30 per cent Rice bran oil by weight"
+1[(2A) In case rice bran oil which is physically refined is used as one of the ingredients in Vanaspati, it shall be declared in the ingredient list on the label as `Physically Refined Rice Bran Oil.]
+(3) A package containing annatto colour in vegetable oils shall bear the following label namely: -- Contains Annatto colour
+34 | Version-VIII (09.09.2025)
+
+1[(4) Every package containing an admixture of edible oils shall carry the following label declaration in bold capital letter immediately below its brand name or trade name on the front of pack, namely: -
+"MULTI-SOURCE EDIBLE OIL"
+(Name and nature* of edible oil) ...........................per cent. by weight (Name and nature* of edible oil) ...........................per cent. by weight
+(*i.e. in raw or refined form) For pack size less than one litre, the font size of the label declaration "MULTI-SOURCE EDIBLE OIL", shall not be less than 3 mm with the length of declaration statement as 35 mm minimum and for label declaration "Name and Nature of edible oil......per cent. by weight", font size shall not be less than 2 mm. For pack size one litre to below 5 litre, the font size of the label declaration "MULTISOURCE EDIBLE OIL" shall not be less than 4 mm with the length of declaration statement as 45 mm minimum and for label declaration "Name and Nature of edible oil......per cent. by weight" font size shall not be less than 2.5 mm. For pack size five litre and above, the font size of the label declaration "MULTI-SOURCE EDIBLE OIL" shall not be less than 10 mm and for label declaration "Name and Nature of edible oil......per cent. by weight" font size shall not be less than 3 mm. There shall also be the following declaration in bold capital letters along with the name of product on front of pack, -
+NOT TO BE SOLD LOOSE."
+2.2 Coffee-Chicory Mixture (1) Every package containing a mixture of coffee and chicory shall have affixed to it a label upon which shall be printed the following declaration: Coffee blended with Chicory This mixture contains Coffee................................. Percent Chicory................................ Percent (2) Every package containing Instant Coffee-Chicory mixture shall have affixed to it a label upon which shall be printed the following declarations: Instant Coffee-Chicory mixture made from blends of coffee and chicory
+35 | Version-VIII (09.09.2025)
+
+Coffee................................. Percent Chicory................................ Percent
+Amendment for substitution of highlighted provision 4[2.2 Coffee-Chicory Mixture (1) Every package containing a mixture of coffee and chicory shall have following label declaration on the front of the package:
+COFFEE BLENDED WITH CHICORY THIS MIXTURE CONTAINS
+COFFEE................................. PERCENT CHICORY................................ PERCENT
+OR OR
+COFFEE BLENDED WITH CHICORY THIS MIXTURE CONTAINS COFFEE .....%, CHICORY .....%
+(2) Every package containing Instant Coffee-Chicory mixture shall have following label declaration on the front of the package:
+INSTANT COFFEE-CHICORY MIXTURE MADE FROM BLENDS OF COFFEE AND CHICORY
+COFFEE................................. PERCENT CHICORY................................ PERCENT
+OR INSTANT COFFEE-CHICORY MIXTURE MADE FROM BLENDS OF COFFEE AND CHICORY
+COFFEE .....%, CHICORY .....%]
+[This amendment shall come into force on 1st July, 2026]
+36 | Version-VIII (09.09.2025)
+
+2.3 Labelling of Milk and Milk products All Milk powders, skimmed milk powders and condensed milk (sweetened and flavoured) or similar products, which can be reconstituted into liquid milk, shall carry the following declaration on label:
+NOT TO BE USEDFOR INFANTS BELOW SIX MONTHS
+2.4 Labelling prohibitions for drinking water (both packaged and mineral) (1) No claims concerning medicinal (preventative, alleviative or curative) effects shall be made in respect of the properties of the product covered by the standard. Claims of other beneficial effects related to the health of the consumer shall not be made. (2) The name of the locality, hamlet or specified place may not form part of the trade name unless it refers to packaged water collected at the place designated by that trade name. (3) The use of any statement or of any pictorial device which may create confusion in the mind of the public or in any way mislead the public about the nature, origin, composition, and properties of such waters put on sale is prohibited.
+2.5 Labelling of `Gluten Free' products (1) The term "Gluten Free" shall be printed in the immediate proximity of the name of the product in the case of products described in regulation 2.14 of the Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011, namely:-
+"Gluten Free" In case any gluten free product is manufactured in a plant where gluten containing products are also manufactured this shall be declared on the label as "Processed in a plant where gluten containing products are manufactured".
+3[2.6 Labelling of various types of bread The nomenclature of various breads mentioned in column (2) shall comply with requirements mentioned in columns (3) and (4) of the table below:
+37 | Version-VIII (09.09.2025)
+
+S. No. Name of Bread
+
+(1)
+
+(2)
+
+Specialty Ingredient (3)
+
+Minimum amount of Special ty Ingredient as % of Flour
+(4)
+
+1. Whole Wheat Bread Whole wheat flour (Atta)
+
+Whole wheat flour should be at least 75%
+
+2. Wheat Bread or Brow Whole wheat flour (Atta) n Bread
+
+Whole wheat flour should be a t least 50%
+
+3. White bread
+
+Refined wheat flour (Maida) -
+
+4. Multigrain Bread
+
+Food grains permitted under FS Minimum 20% should be grai
+
+S
+
+ns other than wheat*
+
+(Food Product Standards & Fo
+
+od Additives) Regulations, 201
+
+1
+
+5. Specialty Bread
+
+Specialty ingredient that must be present in case a prefix is add ed to the term "bread" on the label
+
+(a) Milk bread
+
+Milk solids
+
+6%
+
+(b) Honey bread
+
+Honey
+
+5%
+
+(c) Cheese bread
+
+Cheese
+
+10%
+
+(d) Oatmeal bread
+
+Oats
+
+15%
+
+(e) Cracked wheat /Dhali Cracked wheat/Dhalia a bread
+
+15%
+
+(f) Bread with wheat ger Wheat germ
+
+2%
+
+m
+
+(g) Egg bread
+
+Edible Whole Egg solids
+
+1.5%
+
+(h) Fruit bread or loaf Candied Fruit
+
+10%
+
+(i) Triticale bread
+
+Triticale flour
+
+20%
+
+(j) Rye bread
+
+Rye flour
+
+20%
+
+(k) Raisin bread
+
+Raisins
+
+10%
+
+(l) Bran bread
+
+Edible Bran
+
+5%
+
+(m) Protein enriched brea Edible Protein d (Protein prachur br ead)
+
+15% Protein
+
+(n) Bread such as Garlic Garlic, Oregano etc.
+
+2%
+
+bread, masala bread,
+
+oregano bread etc.
+
+(o) Bread with seeds such Flax Seeds, sesame seeds,
+
+5%
+
+as flax seeds, sesame pumpkin seeds etc.
+
+seeds, pumpkin seeds
+
+etc.
+
+Note: The calculation of specialty ingredient is on 100g flour basis.
+
+38 | Version-VIII (09.09.2025)
+
+*The Minimum amount of Specialty Ingredient in case of Multigrain Bread shall be minimum 10% in the 1st year of enforcement and thereafter it shall be 20%.] Note: The principal regulations were published in the Gazette of India, Extraordinary vide notification number F. No. 1-94/FSSAI/SP(Labelling)/2014(Pt-2), dated the 17th November, 2020 and subsequently amended vide notification numbers: 1. F. No. Std/SP-08/A-1.2019/N-02, dated 10th September,2021; 2. F. No. Std/SP-08/A-1.2021/N-01, dated 9th September,2022; 3. F. No. Std/SP-08/A-1-2020/N-01, dated 11th October, 2022; and 4. F. No. SS-T017/1/2023-Standard-FSSAI, dated 8th August, 2025.
+39 | Version-VIII (09.09.2025)
+
+

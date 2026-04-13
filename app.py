@@ -54,21 +54,16 @@ def find_poppler_path():
     
     return None
 
-# %DV Reference Values (FDA 2016 updates)
+# %RDA Reference Values (FSSAI / ICMR-NIN 2020)
 Config.DAILY_VALUES = {
-    "Energy": 2000,
-    "Total Fat": 78,
-    "Saturated Fat": 20,
-    "Cholesterol": 300,
-    "Sodium(mg)": 2300,
-    "Total Carbohydrate": 275,
-    "Dietary Fiber": 28,
-    "Added Sugars": 50,
-    "Protein": 50,
-    "Vitamin D": 20,  # mcg
-    "Calcium": 1300,  # mg
-    "Iron": 18,       # mg
-    "Potassium": 4700 # mg
+    "Energy": 2000,       # kcal - FSSAI
+    "Total Fat": 67,      # g - FSSAI
+    "Saturated Fat": 20,  # g - confirmed from reference label
+    "Trans Fat": 2,       # g - FSSAI
+    "Added Sugars": 50,   # g - FSSAI
+    "Sodium(mg)": 2000,   # mg - FSSAI
+    # Protein, Carbohydrate, Sugars, Fiber, Cholesterol, Vitamins, Minerals
+    # intentionally excluded — no single ICMR RDA for labelling; shown as '-'
 }
 
 def hash_password(password):
@@ -154,7 +149,7 @@ def show_connection_status(force_refresh=False):
 def get_default_design_params():
     """Get default design parameters"""
     return {
-        'width': 270, 'height': 370,
+        'width': 270, 'height': 350,
         'line_thick': 3, 'line_thin': 0,
         'font_header': 27, 'font_subheader': 13,
         'font_nutrient': 10, 'font_footnote': 7,
@@ -204,13 +199,15 @@ class NutritionLabelGenerator:
         return str(value)
     
     def calculate_percent_dv(self, nutrient, value):
-        """Calculate %Daily Value with better handling"""
+        """Calculate %RDA — returns '-' if no RDA defined for this nutrient"""
         key = nutrient.strip()
         dv_val = Config.DAILY_VALUES.get(key)
-        
-        if not dv_val or pd.isna(value) or value <= 0:
-            return ""
-        
+
+        if not dv_val:
+            return "-"
+        if pd.isna(value) or value <= 0:
+            return "0%"
+
         percent = (value / dv_val) * 100
         if percent < 1:
             return "<1%"
@@ -256,7 +253,7 @@ class NutritionLabelGenerator:
         
         # Title
         title_font = "Helvetica-Black" if self.has_custom_font else "Helvetica-Bold"
-        self.draw_spaced_text(c, "Nutrition Facts", x_left, y_positions['header'], 
+        self.draw_spaced_text(c, "Nutrition Facts", x_left, y_positions['header'],
                              title_font, p['font_header'], p['header_spacing'])
         
         # Separator after title
@@ -281,16 +278,16 @@ class NutritionLabelGenerator:
         c.setFont("Helvetica-Bold", p['font_subheader'])
         c.drawString(x_left + 2, y_positions['energy'], "Energy")
         c.setFont("Helvetica-Bold", 20)
-        energy_val = self.format_value(data.get("Energy", 0), "")
+        energy_val = self.format_value(data.get("Energy", 0), "") + " kcal"
         c.drawRightString(x_right - 2, y_positions['energy'], energy_val)
         
         c.line(x_left, y_positions['energy_sep'], x_right, y_positions['energy_sep'])
         
         # Nutrients
-        self._draw_nutrients(c, data, y_positions, x_left, x_right, p)
-        
+        thick_line_y = self._draw_nutrients(c, data, y_positions, x_left, x_right, p)
+
         # Footnotes
-        self._draw_footnotes(c, data, y_positions, x_left, p)
+        self._draw_footnotes(c, data, thick_line_y, x_left, p)
         
         c.showPage()
         c.save()
@@ -373,15 +370,19 @@ class NutritionLabelGenerator:
     def _draw_nutrients(self, c, data, y_positions, x_left, x_right, p):
         """Draw all nutrient information"""
         nutrient_order = [
-            "Total Fat", "  Saturated Fat", "   Trans Fat", "Cholesterol", "Sodium(mg)",
-            "Total Carbohydrate", "  Dietary Fiber", "  Total Sugars", "   Added Sugars", 
-            "Protein", "Vitamin D", "Calcium", "Iron", "Potassium"
+            "Protein",
+            "Total Carbohydrate", "  Total Sugars", "   Added Sugars",
+            "Total Fat", "  Saturated Fat", "   Trans Fat",
+            "Cholesterol", "Sodium(mg)",
+            "Dietary Fiber",
+            "Vitamin D", "Calcium", "Iron", "Potassium"
         ]
         
         y_pos = y_positions['nutrients_start']
         # Add "% Daily Value" text above nutrients
         c.setFont("Helvetica-Bold", p['font_nutrient'])
-        dv_text = "% Daily Value *"
+        c.drawString(x_left + 2, y_pos + p['nutrient_leading'], "per 100g (approx values)")
+        dv_text = "% of RDA"
         c.drawRightString(x_right - 2, y_pos + p['nutrient_leading'], dv_text)
         # Add thin line under the "% Daily Value" text
         c.setLineWidth(p['line_thin'])
@@ -420,11 +421,10 @@ class NutritionLabelGenerator:
             
             # Draw nutrient line
             c.drawString(x_left + 2, y_pos, label)
-            if percent:
-                c.drawRightString(x_right - 2, y_pos, percent)
+            c.drawRightString(x_right - 2, y_pos, percent)
             
             # Separator line
-            if nutrient not in ["Protein", "Potassium"]:  # No line after last nutrient
+            if nutrient not in ["Dietary Fiber", "Potassium"]:  # No line after last nutrient
                 c.setLineWidth(p['line_thin'])
                 c.line(x_left, y_pos - p['thin_offset'], x_right, y_pos - p['thin_offset'])
             
@@ -432,22 +432,22 @@ class NutritionLabelGenerator:
         
         # Final thick line (closer to last nutrient)
         c.setLineWidth(p['line_thick'])
-        c.line(x_left, y_pos + p['nutrient_leading'] - p['thin_offset'], x_right, y_pos + p['nutrient_leading'] - p['thin_offset'])
+        thick_line_y = y_pos + p['nutrient_leading'] - p['thin_offset']
+        c.line(x_left, thick_line_y, x_right, thick_line_y)
+        return thick_line_y
     
-    def _draw_footnotes(self, c, data, y_positions, x_left, p):
-        """Draw footnote text with proper wrapping"""
+    def _draw_footnotes(self, c, data, thick_line_y, x_left, p):
+        """Draw footnote text directly below the thick line"""
         c.setFont("Helvetica", p['font_footnote'])
         max_width = p['width'] - 20
-        
-        # Default footnote
-        footnote1 = data.get("Footnote", 
-            "* The % Daily Value (DV) tells you how much a nutrient in a serving "
-            "of food contributes to a daily diet. 2,000 calories a day is used "
-            "for general nutrition advice.")
-        
+
+        footnote1 = data.get("Footnote",
+            "* Based on the Recommended Dietary Allowances (RDA) values established "
+            "by the Indian Council of Medical Research (ICMR) for an average adult per day.")
+
         lines1 = self.wrap_text(c, footnote1, max_width, "Helvetica", p['font_footnote'])
-        
-        y = p['footnote_start'] + (len(lines1) - 1) * p['footnote_spacing']
+
+        y = thick_line_y - 14
         for line in lines1:
             c.drawString(x_left + 2, y, line)
             y -= p['footnote_spacing']
@@ -765,7 +765,7 @@ def prepare_data(row):
         "Cholesterol": float(row["Cholesterol"]) if pd.notna(row["Cholesterol"]) else 0,
         "Sodium(mg)": float(row["Sodium(mg)"]) if pd.notna(row["Sodium(mg)"]) else 0,
         "Total Carbohydrate": float(row["Total Carbohydrate"]) if pd.notna(row["Total Carbohydrate"]) else 0,
-        "  Dietary Fiber": float(row["Dietary Fiber"]) if pd.notna(row["Dietary Fiber"]) else 0,
+        "Dietary Fiber": float(row["Dietary Fiber"]) if pd.notna(row["Dietary Fiber"]) else 0,
         "  Total Sugars": float(row["Total Sugars"]) if pd.notna(row["Total Sugars"]) else 0,
         "   Added Sugars": float(row["Added Sugars"]) if pd.notna(row["Added Sugars"]) else 0,
         "Protein": float(row["Protein"]) if pd.notna(row["Protein"]) else 0,
@@ -778,15 +778,9 @@ def prepare_data(row):
             data[nutrient] = float(row[nutrient])
     
     # Footnotes
-    data["Footnote"] = row.get("Footnote", 
-        "* The % Daily Value (DV) tells you how much a nutrient in a serving "
-        "of food contributes to a daily diet. 2,000 calories a day is used "
-        "for general nutrition advice.")
-    
-    # Add default Footnote2 or use custom one from Google Sheets
-    data["Footnote2"] = row.get("Footnote2", 
-        "* Values are approximate and based on standard food composition tables. "
-        "Actual values may vary.")
+    data["Footnote"] = row.get("Footnote",
+        "* Based on the Recommended Dietary Allowances (RDA) values established "
+        "by the Indian Council of Medical Research (ICMR) for an average adult per day.")
     
     return data
 
