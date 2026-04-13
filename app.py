@@ -381,7 +381,7 @@ class NutritionLabelGenerator:
         y_pos = y_positions['nutrients_start']
         # Add "% Daily Value" text above nutrients
         c.setFont("Helvetica-Bold", p['font_nutrient'])
-        c.drawString(x_left + 2, y_pos + p['nutrient_leading'], "per 100g (approx values)")
+        c.drawString(x_left + 2, y_pos + p['nutrient_leading'], "Per 100g*")
         dv_text = "% of RDA"
         c.drawRightString(x_right - 2, y_pos + p['nutrient_leading'], dv_text)
         # Add thin line under the "% Daily Value" text
